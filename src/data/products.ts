@@ -115,6 +115,15 @@ export const products: Product[] = [
     description: 'Многоуровневая полка в виде лестницы. Вместительная и стильная.',
     badge: 'Топ продаж',
   },
+  {
+    id: 13,
+    name: 'Полка под ключи',
+    price: 550,
+    image: 'https://cdn.poehali.dev/projects/bd8797b0-6dda-470c-8575-523605d5f3e5/files/e7fe3968-6fab-4d50-8a2d-ccb6cb502de4.jpg',
+    category: 'Полки',
+    material: 'PLA',
+    description: 'Удобная настенная полка под ключи. Практичное и стильное решение для прихожей.',
+  },
 ];
 
 export const categories = ['Все', 'Игрушки', 'Органайзеры', 'Полки', 'Вазы'];
