@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import Icon from '@/components/ui/icon';
 
 const team = [
-  { name: 'Алексей', role: 'Основатель', emoji: '👨‍💻' },
+  { name: 'Андрей', role: 'Основатель', emoji: '👨‍💻' },
   { name: 'Мария', role: 'Дизайнер', emoji: '👩‍🎨' },
   { name: 'Дмитрий', role: 'Инженер печати', emoji: '👨‍🔧' },
 ];
