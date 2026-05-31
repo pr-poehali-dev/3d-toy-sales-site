@@ -4,7 +4,7 @@ import Icon from '@/components/ui/icon';
 const contacts = [
   { icon: 'Phone', label: 'Телефон', value: '+7 (903) 289-10-75', href: 'tel:+79032891075', color: 'gradient-bg' },
   { icon: 'Mail', label: 'Email', value: 'mariyamarutina@gmail.com', href: 'mailto:mariyamarutina@gmail.com', color: 'gradient-bg-3' },
-  { icon: 'MessageCircle', label: 'Telegram', value: '@printland_shop', href: 'https://t.me/printland_shop', color: 'gradient-bg-2' },
+  { icon: 'MessageCircle', label: 'Telegram', value: '@MassshhhaV', href: 'https://t.me/MassshhhaV', color: 'gradient-bg-2' },
   { icon: 'MapPin', label: 'Адрес', value: 'г. Москва, ул. Примерная, д. 10', href: '#', color: 'gradient-bg' },
 ];
 
