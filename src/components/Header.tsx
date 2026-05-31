@@ -24,7 +24,7 @@ export default function Header() {
             <span className="text-white text-xl">🖨️</span>
           </div>
           <span className="text-white font-bold text-xl tracking-wide" style={{ fontFamily: 'Russo One, sans-serif' }}>
-            Print<span className="gradient-text">Land</span>
+            Твой Уют<span className="gradient-text"> 3Д</span>
           </span>
         </Link>
 
